@@ -1,4 +1,7 @@
 # Custom-List-View
+## > application looks like this: 
+https://github.com/VarunaBansod/Custom-List-View/assets/65997106/21a63055-830e-4181-99fd-aa0e0dbff86b
+
 
 Code of [MainActivity.kt](app/src/main/java/com/example/listviewprojtwo/MainActivity.kt) : it  contains list of all the items passing data to another page when item gets clicked <br>
 Code of [activity_main.xml](app/src/main/res/layout/activity_main.xml) <br> this is how main page will look
